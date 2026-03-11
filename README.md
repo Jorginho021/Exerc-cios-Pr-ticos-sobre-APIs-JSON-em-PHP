@@ -1,0 +1,1 @@
+# Exerc-cios-Pr-ticos-sobre-APIs-JSON-em-PHP

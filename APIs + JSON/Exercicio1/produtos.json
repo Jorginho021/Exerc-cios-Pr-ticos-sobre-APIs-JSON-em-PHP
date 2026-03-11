@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Mouse",
+    "preco": 59.9,
+    "categoria": "Informática"
+  },
+  {
+    "nome": "Teclado",
+    "preco": 120.0,
+    "categoria": "Informática"
+  },
+  {
+    "nome": "Caderno",
+    "preco": 18.5,
+    "categoria": "Papelaria"
+  }
+]
